@@ -5,13 +5,13 @@ class script(object):
 
 ⚠️𝙼𝚘𝚛𝚎 𝙷𝚎𝚕𝚙 𝙲𝚑𝚎𝚌𝚔 𝙷𝚎𝚕𝚙 𝙱𝚞𝚝𝚝𝚘𝚗 𝙱𝚎𝚕𝚘𝚠
 
-©️𝙼ᴀɪɴᴛᴀɪɴᴇ𝙳 𝙱ʏ  <a href="https://t.me/AlluKishore_Official">ɪᴛꜱ_ᴀᴋ</a>
+©️𝙼ᴀɪɴᴛᴀɪɴᴇ𝙳 𝙱ʏ  <a href="https://t.me/Virab_Bot_Updates">Tᴇᴀᴍ Vɪʀᴀʙ</a>
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
 ✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href="https://t.me/AK_MediaSearchBot">SᴘɪᴅᴇʏX-Fɪʟᴛᴇʀ</a>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href="https://t.me/AlluKishore_Official">ɪᴛꜱ_ᴀᴋ</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href="https://t.me/Virab_Bot_Updates">Tᴇᴀᴍ Vɪʀᴀʙ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
